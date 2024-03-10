@@ -1,0 +1,9 @@
+{
+  "name": "@alexthan0410/thomastea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@alexthan0410",
+  "repository": "https://github.com/alexthan0410/alextea.git",
+  "license": "ISC"
+}
